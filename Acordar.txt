@@ -1,0 +1,19 @@
+1-Tocou o despertador?
+Não
+	Continuar dormindo
+	Fim
+Sim
+	2-Abrir os olhos
+	3-Levantar da cama 
+	4-Colocar um calçado
+	5-Abrir os olhos
+	6-Levantar da cama 
+	7-Colocar um calçado
+	8-Ir ate o banheiro
+	9-Escovar os dentes
+	10-Tomar um banho
+	11-Se secar
+	12-Colocar uma roupa 
+	13-Ir para cozinha
+	14-Tomar um café
+	Fim
